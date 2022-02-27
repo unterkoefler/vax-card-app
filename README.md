@@ -27,5 +27,5 @@ _(Contributions welcome :) )_
 - [ ] add an actual icon instead of the default.
 - [ ] make zooming less bad. You can only zoom in on the center right now.
 - [ ] add innocuous-seeming log statements that actually make remote calls to my secret
-server, uploading all my user's private data. Mwuahahaaha.
+server, uploading all my user's private data. Mwuahahaaha. Anyone know a good library for this?
 - [ ] learn Kotlin.
